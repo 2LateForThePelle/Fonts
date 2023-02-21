@@ -2,7 +2,6 @@
 
 <img src='./images/DementCondensed-Bold.svg' />
 
-
 <img src='./images/MaisryDC-Regular.svg' />
 
 <img src='./images/MaisryDCglyphs.svg' />
