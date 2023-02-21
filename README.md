@@ -1,4 +1,4 @@
-# What's In Here?
+# Samples
 
 <img src='./images/DementCondensed-Bold.svg' />
 
