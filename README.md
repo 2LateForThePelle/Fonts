@@ -4,6 +4,8 @@
 
 <img src='./images/DementCondensed-Bold-glyphs.svg' />
 
+<img src='./images/spacer.svg' />
+
 <img src='./images/MaisryDC-Regular.svg' />
 
 <img src='./images/MaisryDC-Regular-glyphs.svg' />
