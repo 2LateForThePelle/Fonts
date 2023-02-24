@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.2" viewBox="0 0 820 40"><path fill="#999" d="m60 20.3.0055-.2765h700L760 20.3Z"/><path fill="#999" d="m9.8164 20.421.0016-.3975 800.121-.0039-.002.4054z"/><path fill="#999" d="m9.8164 20.421.0016-.3975 800.121-.0039-.002.4054z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xml:space="preserve"
+   version="1.2"
+   viewBox="0 0 820 40"
+   id="svg8"
+   sodipodi:docname="spacer.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs12" /><sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:current-layer="svg8" /><path
+     fill="#999"
+     d="m60 20.3.0055-.2765h700L760 20.3Z"
+     id="path2" /><path
+     fill="#999"
+     d="m9.8164 20.421.0016-.3975 800.121-.0039-.002.4054z"
+     id="path4" /><path
+     fill="#999999"
+     d="m 0.00331924,20.428812 0.0016,-0.401406 819.99804076,-1.94e-4 -0.002,0.4054 z"
+     id="path6"
+     sodipodi:nodetypes="ccccc" /></svg>
