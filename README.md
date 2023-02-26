@@ -17,3 +17,5 @@ Maisry Drop Cap is based on the work of [Solbera](https://www.reddit.com/r/Unear
 <img src='./images/Hunck-Regular.svg' />
 
 <img src='./images/Hunck-Regular-glyphs.svg' />
+
+<img src='./images/HunckSC-Regular-glyphs.svg' />
